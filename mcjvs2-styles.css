@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+}
+
+div#container{
+
+    background-color: white;
+    box-shadow: 0 0 10px 0 hsla(0 ,0 ,0,0.5);
+   
+   
+}
+/*header*/
+header{
+border-top: 6px solid hsl(0, 78%, 21%);
+
+
+}
+button{
+
+    background-color: hsl(0, 78%, 21%);
+    color: white;
+    border: 1px hidden;
+    border-radius: 5px;
+    font-size: 1.2em;
+    font-weight: lighter;
+}
+
+
+/*nav*/
+nav{
+
+
+    background-color: crimson;
+}
+nav>ul#nav-bar>li>a{
+    color: white;
+}
+
+
+/*main*/
+main{
+
+    background-color: ghostwhite;
+}
